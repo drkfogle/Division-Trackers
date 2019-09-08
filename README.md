@@ -1,6 +1,6 @@
-# Division Tracker
+#Division Tracker
 
-An application which allows it's user to track the records of a player of the game Division 2.
+An app which allows it's user to track the records of a player of the game Division 2.
 
 ## Requirements
 
